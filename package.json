@@ -1,7 +1,10 @@
 {
-  "name": "JS_Latest",
+  "name": "js_latest",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
   "repository": "https://github.com/ishan-me/JS_Latest.git",
   "author": "Ishan Manandhar <ishan02016@gmail.com>",
   "license": "MIT",
