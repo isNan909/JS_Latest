@@ -4,6 +4,7 @@ Latest features introduced in Javascript in ES10 and 11
 // ES10 
 
 file_one: Array.flat()
+
 file_two: Array.flatMap()
 
 file_three: Object.fromEntries
