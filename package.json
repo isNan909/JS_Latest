@@ -1,0 +1,17 @@
+{
+  "name": "JS_Latest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ishan-me/JS_Latest.git",
+  "author": "Ishan Manandhar <ishan02016@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-react": "^7.9.4"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  }
+}
