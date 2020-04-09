@@ -21,5 +21,19 @@ file_eight: Array.Sort Stability
 
 file_nine: Symbol.description
 
-file_ten: Object.fromEntries()
+// ES11
+
+file_ten: String.prototype.matchAll
+
+file_eleven: Private Class Variables
+
+file_twelve: Promise.allSettled
+
+file_thirteen: BigInt
+
+file_fourteen: Optional Chaining Operator
+
+file_fifteen: Dynamic Import
+
+
 
