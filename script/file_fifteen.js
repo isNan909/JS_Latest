@@ -1,4 +1,4 @@
-//dynamic import NOT SUPPORTED
+//dynamic import NOT SUPPORTED Fully
 
 // const performMultiplication = async (num1, num2) => {
 //     if (num1 && num2) {

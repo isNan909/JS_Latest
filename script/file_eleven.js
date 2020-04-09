@@ -1,6 +1,5 @@
 // Private Class Variables -- partial support only works in browser chrome < 79
 
-
 // class Purchase {
 //     #discount = 100
 //     payment() {
@@ -10,3 +9,4 @@
 
 // const goods = new Purchase()
 // goods.payment()
+
