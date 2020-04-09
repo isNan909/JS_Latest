@@ -16,5 +16,10 @@
     "presets": [
       "@babel/preset-react"
     ]
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.9.5",
+    "parcel-bundler": "^1.12.4"
   }
 }
