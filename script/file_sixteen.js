@@ -29,3 +29,14 @@
 
 // console.log(person.profile.name ?? "Anonymous");
 // console.log(person.profile.age ?? 18);
+
+// null ?? undefined ?? false ?? 'hello' 
+// null ?? '' ?? 'hello' 
+
+
+// code shortened 
+// const firstSource = await fetch('...')
+// const secondSource = await fetch('...')
+// const defaultSource = { heading: 'Default Data Source' }
+
+// const ourSources = firstSource ?? secondSource ?? defaultSource
