@@ -1,21 +1,26 @@
 //Array.flat()//
 
 
-// const launguages = ['python', 'go', ['javascript', 'dart', ['coffeescript', 'webassembly']]];
-// console.log(launguages.flat(0));
+const lang = [ ['go', 'rust'], ['javascript']];
+const makeFlat = [].concat.apply([], lang);
 
 
+const launguagesOne = ['python', 'go', ['javascript', 'dart', ['coffeescript', 'webassembly']]];
+console.log(launguagesOne.flat(0));
 
-// const launguages = ['python', 'go', , , ['javascript', 'dart', ['coffeescript', 'webassembly']]];
-// console.log(launguages.flat(1));
+ 
+const launguagesTwo = ['python', 'go', , , ['javascript', 'dart', ['coffeescript', 'webassembly']]];
+console.log(launguagesTwo.flat(1));
+
+// array with empty slots
 
 
-// const launguages = ['python', 'go', ['javascript', 'dart', ['coffeescript', 'webassembly', ['rust']]]];
-// console.log(launguages.flat(2));
+const launguagesThree = ['python', 'go', ['javascript', 'dart', ['coffeescript', 'webassembly', ['rust']]]];
+console.log(launguagesThree.flat(2));
 
 
-// const launguages = ['python', 'go', , ,  ['javascript', 'dart', ['coffeescript', 'webassembly', ['rust']]]];
-// console.log(launguages.flat(Infinity));
+const launguagesFour = ['python', 'go', , ,  ['javascript', 'dart', ['coffeescript', 'webassembly', ['rust']]]];
+console.log(launguagesFour.flat(Infinity));
 
 
 

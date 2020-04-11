@@ -1,7 +1,7 @@
 # JS_Latest
 Latest features introduced in Javascript in ES11 and 10
 
-// ES11
+// ES11 
 
 file_ten: String.prototype.matchAll
 
@@ -10,7 +10,7 @@ file_eleven: Private Class Variables
 file_twelve: Promise.allSettled
 
 file_thirteen: BigInt
-
+ 
 file_fourteen: Optional Chaining Operator
 
 file_fifteen: Dynamic Import
@@ -19,7 +19,7 @@ file_sixteen: Nullish Coalescing Operator
 
 // ES10 
 
-file_one: Array.flat
+file_one: Array.flat 
 
 file_two: Array.flatMap
 
